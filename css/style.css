@@ -22,8 +22,9 @@ padding:20px;
 
 .menu li a{text-decoration: none; color:black}
 .menu li:hover{  background: white;padding:10px}
+<<<<<<< HEAD
 
-h1{
+.Prod{
     background-color: #F7CE68;
     color: black;
     padding: 15px;
@@ -32,4 +33,18 @@ h1{
 
 .Produit{
     display: flex;
+    
 }
+=======
+.content {text-align: center;}
+.content h1{color:red;    font-family: 'Pacifico';font-size: 22px;
+}
+.content p{font-family: 'Pacifico'}
+.content img{width:600px;height:300px;border-radius: 50%;}
+.chef img{height:300px}
+.chef {text-align: center;}
+.chef li {width:30%}
+.chef img{border-radius: 10%; opacity:0.5}
+.chef img:hover{opacity:1}
+.chef ul{justify-content: space-around;display:flex;text-decoration: none;list-style: none;}
+>>>>>>> c41264c3cdde6b90b6b8a388ee524472e2dcf5e6
