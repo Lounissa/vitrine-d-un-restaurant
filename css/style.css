@@ -22,3 +22,7 @@ padding:20px;
 
 .menu li a{text-decoration: none; color:black}
 .menu li:hover{  background: white;padding:10px}
+.content {text-align: center;}
+.content h1{color:red;    font-family: 'Pacifico';font-size: 22px;
+}
+.content p{font-family: 'Pacifico'}
