@@ -22,3 +22,14 @@ padding:20px;
 
 .menu li a{text-decoration: none; color:black}
 .menu li:hover{  background: white;padding:10px}
+
+h1{
+    background-color: #F7CE68;
+    color: black;
+    padding: 15px;
+
+}
+
+.Produit{
+    display: flex;
+}
