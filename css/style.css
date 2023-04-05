@@ -26,10 +26,12 @@ padding:20px;
 .content h1{color:red;    font-family: 'Pacifico';font-size: 22px;
 }
 .content p{font-family: 'Pacifico'}
-.content img{width:600px;height:300px;border-radius: 50%;}
+.content img{width:400px;height:300px;border-radius: 50%;}
+.chef {padding:30px}
 .chef img{height:300px}
 .chef {text-align: center;}
 .chef li {width:30%}
 .chef img{border-radius: 10%; opacity:0.5}
 .chef img:hover{opacity:1}
 .chef ul{justify-content: space-around;display:flex;text-decoration: none;list-style: none;}
+
