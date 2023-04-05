@@ -26,3 +26,5 @@ padding:20px;
 .content h1{color:red;    font-family: 'Pacifico';font-size: 22px;
 }
 .content p{font-family: 'Pacifico'}
+.content img{width:600px;height:300px;border-radius: 50%;}
+.chef img{height:300px}
