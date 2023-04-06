@@ -1,37 +1,115 @@
 body {
 
-    width:1026px;
-    margin:0 auto;
+    width: 1026px;
+    margin: 0 auto;
 }
 
-.logo img{width:150px;}
+.logo img {
+    width: 150px;
+}
 
 header {
-padding:20px;
-    height:100px
-
+    padding: 20px;
+    height: 100px
 }
-.menu {background-color: #FBAB7E;
+
+.menu {
+    background-color: #FBAB7E;
     background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
-    }
-.menu ul{display:flex;justify-content: space-around;}
-.menu li{
+}
+
+.menu ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu li {
     list-style: none;
-    padding:10px;;
+    padding: 10px;
+    
 }
 
-.menu li a{text-decoration: none; color:black}
-.menu li:hover{  background: white;padding:10px}
-.content {text-align: center;}
-.content h1{color:red;    font-family: 'Pacifico';font-size: 22px;
+.menu li a {
+    text-decoration: none;
+    color: black
 }
-.content p{font-family: 'Pacifico'}
-.content img{width:400px;height:300px;border-radius: 50%;}
-.chef {padding:30px}
-.chef img{height:300px}
-.chef {text-align: center;}
-.chef li {width:30%}
-.chef img{border-radius: 10%; opacity:0.5}
-.chef img:hover{opacity:1}
-.chef ul{justify-content: space-around;display:flex;text-decoration: none;list-style: none;}
 
+.menu li:hover {
+    background: white;
+    padding: 10px
+}
+
+.Prod {
+    background-color: #F7CE68;
+    color: black;
+    padding: 15px;
+
+}
+
+.Produit {
+    display: flex;
+    list-style-type: none;
+
+}
+
+.Produit li a {
+    text-decoration: none;
+    color: black
+}
+
+.Produit li:hover {
+    background: white;
+    padding: 10px
+}
+
+.content {
+    text-align: center;
+}
+
+.content h1 {
+    color: red;
+    font-family: 'Pacifico';
+    font-size: 22px;
+}
+
+.content p {
+    font-family: 'Pacifico'
+}
+
+.content img {
+    width: 400px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+.chef {
+    padding: 30px
+}
+
+.chef img {
+    height: 300px
+}
+
+.chef {
+    text-align: center;
+}
+
+.chef li {
+    width: 30%
+}
+
+.chef img {
+    border-radius: 10%;
+    opacity: 0.5
+}
+
+.chef img:hover {
+    opacity: 1
+}
+
+.chef ul {
+    justify-content: space-around;
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+}
